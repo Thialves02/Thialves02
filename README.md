@@ -1,6 +1,6 @@
-## Oiii! Eu sou o Thiago Roberto
+## Olá! Eu sou o Thiago Roberto
  <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/Thialves02">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ThiAlves02&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiAlves02&layout=compact&langs_count=16&theme=dracula"/>
 </div>
@@ -9,7 +9,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-yoda" height="200" width="250" src="https://cdn.dribbble.com/users/31664/screenshots/3914969/dribbble.gif">
+  <img align="right" alt="GIF" height="200" width="250" src="https://cdn.dribbble.com/users/31664/screenshots/3914969/dribbble.gif">
 </div>
   
   ##
