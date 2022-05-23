@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thiago</h1>
-<h3 align="center">Focusing to be a fullstack developer</h3>
+<h3 align="center">Front end Developer</h3>
  <div>
   <a href="https://github.com/Thialves02">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ThiAlves02&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
